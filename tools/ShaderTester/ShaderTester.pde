@@ -25,7 +25,8 @@ void setup() {
   //shader = loadShader("vhsc.glsl");
   //shader = loadShader("tv.glsl");
   //shader = loadShader("hypercard.glsl");
-  shader = loadShader("pencil.glsl");
+  //shader = loadShader("pencil.glsl");
+  shader = loadShader("ultrasound2.glsl");
   //shader = loadShader("film.glsl");
 
   String os = System.getProperty("os.name");
